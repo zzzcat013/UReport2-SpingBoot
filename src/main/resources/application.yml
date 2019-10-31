@@ -1,0 +1,6 @@
+server:
+  port: 8066
+  tomcat: 
+    max-swallow-size: -1
+  servlet:
+    context-path:
